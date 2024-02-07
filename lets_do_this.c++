@@ -18,13 +18,11 @@ int main()
     // cout << h << endl;
     // cout << m << endl;
 
-
     // char a = 'a';
     // char greet = 'H';
-    
+
     // cout<<a << endl;
     // cout<<greet << endl;
-
 
     // bool student = true;
     // bool teacher = false;
@@ -37,8 +35,6 @@ int main()
     // cout<<name<<endl;
     // cout<<greeting<<endl;
     // cout<<greeting + name<<endl;  //concat strings
-
-    
 
     return 0;
 }

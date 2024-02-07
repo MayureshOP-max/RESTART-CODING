@@ -1,8 +1,9 @@
-#include<iostream>
+#include <iostream>
 
-int main(){
+int main()
+{
 
-    int students =20;
+    int students = 20;
     // students = students + 2;
     // students+= 2;
     // students++ ;
@@ -25,8 +26,8 @@ int main(){
 
     // std::cout<<students;
 
-    students = students%3;
-    
-    std::cout<<students;
+    students = students % 3;
+
+    std::cout << students;
     return 0;
 }
